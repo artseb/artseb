@@ -1,4 +1,13 @@
-## Hi there 👋
+<img src="/assets/banner-background.png">
+<h1 align="center">ARTSEB</h1>
+
+<p align="center">
+	A oddly-suspicious normal guy that loves coding, art, modelling, music and everything else!<br>
+	<code>they're still arts.. right?</code>
+</p>
+
+## About me!
+
 
 <!--
 **artseb/artseb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
